@@ -12,7 +12,6 @@
 I’m a  Software and Industrial Engineer 🚀   
 I did a minor in the Department of Software Engineering at Üsküdar University. I am flexible and motivated to continue learning new things and further my growth. I continue learning about how to apply the latest technologies in my business life. I am a team player and love to collaborate with others by providing the best ideas and listening to others.  
   
-
 <br/>  
 
 - 🔭 I’m currently working on Java Projects.  
@@ -24,8 +23,6 @@ I did a minor in the Department of Software Engineering at Üsküdar University.
 - 👯 I’m looking to collaborate on : Java projects  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
 
 ![](https://i.gifer.com/JXA0.gif)  
   
