@@ -69,6 +69,8 @@ I did a minor in the Department of Software Engineering at Üsküdar University.
 
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more 👀  
+- rabiacemberci3@gmail.com  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=rabiacemberci&&style=flat-square)  
   
 
