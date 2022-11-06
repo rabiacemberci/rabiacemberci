@@ -14,9 +14,6 @@ I did a minor in the Department of Software Engineering at Üsküdar University.
   
 <br/>  
 
-- 🔭 I’m currently working on Java Projects.  
-  
-
 - 🌱 I’m currently working on : Java, Spring Boot, PostgreSQL  
   
 
