@@ -14,15 +14,7 @@ I did a minor in the Department of Software Engineering at Üsküdar University.
   
 <br/>  
 
-- 🌱 I’m currently working on : Java, Spring Boot, PostgreSQL  
-  
 
-- 👯 I’m looking to collaborate on : Java projects  
-  
-
-
-![](https://i.gifer.com/JXA0.gif)  
-  
 
 <br/>  
 
